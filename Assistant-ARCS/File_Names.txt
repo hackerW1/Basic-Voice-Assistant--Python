@@ -1,6 +1,1 @@
-notepad
-calc
-Zoom.exe
-Speed.exe
-bnr
-msegde.exe
+
