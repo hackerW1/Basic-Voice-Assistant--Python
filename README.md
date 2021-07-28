@@ -22,7 +22,7 @@ Planned Features :-
 
 -----------------------------------------------------------------------------------------------------
 
-OPEN SOURCE PROJECT || USE IT YOUR OWN WAY || GIVE CREDiT IF GENEROUS
+OPEN SOURCE PROJECT || USE IT YOUR OWN WAY || GIVE CREDIT IF GENEROUS
 CONTACT Wraith#0690 ON DISCORD FOR SUPPORT AND STUFF
 -----------------------------------------------------------------------------------------------------
 My Server :- https://discord.gg/P4mkhptTFh
