@@ -1,7 +1,1 @@
-C:\Windows\System32
-C:\Windows\System32
-C:\Users\Bhai Log\AppData\Roaming\Zoom\bin
-D:\NFS_MostWanted2012\Need for Speed Most Wanted
 
-hidiwhd
-C:\Program Files (x86)\Microsoft\Edge\Application
