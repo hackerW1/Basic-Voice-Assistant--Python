@@ -2,6 +2,10 @@
 A Basic Level Voice Assistant for People to Optimize and Work on, Simple or Complex, you decide.
 
 ----------------------------------------------------------------------------------------------------
+Requirements :- 
+1. Have a Working Mic
+2. Have a Working Keyboard
+----------------------------------------------------------------------------------------------------
 Current Features :- 
 
 1. All Voice Based Commands (F to take voice Input)
