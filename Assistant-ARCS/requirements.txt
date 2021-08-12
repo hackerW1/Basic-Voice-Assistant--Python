@@ -1,0 +1,6 @@
+wikipedia
+pyttsx3
+SpeechRecognition
+keyboard
+geocoder
+
